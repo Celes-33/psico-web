@@ -8,7 +8,6 @@ Este bot está programado con datos verificados y cubre temas generales como:
 - Ansiedad  
 - Depresión  
 - Manejo del estrés  
-- Hábitos saludables  
 - Autocuidado  
 
 ---
